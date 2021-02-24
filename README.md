@@ -14,7 +14,7 @@ What is the expectation?
 How to prepare?
 How to test if your preparation is good enough?
 
-## PS/ DS/ Algo Interview:
+# PS/ DS/ Algo Interview:
 
 Normally you’ll have at least 1–2 rounds focussed on Data Structures related problems and coding them. You really need to ace these rounds to score an offer.
 
@@ -25,12 +25,18 @@ You should use the Data Structure that is most optimal for solving the given pro
 You should be able to code it up and the code needs to work, in one attempt if possible.
 All of this under 40 minutes. The lesser the better.
 
-## How to prepare:
+# How to prepare:
 
 Know about the process
-# Time: Get to know the interview process from your recruiter. Ask them things like how many rounds are there, how long is each round, how many questions are usually asked in a round, etc. This would give you a hint about how much time you have to solve a problem and code it up.
+
+# Time: 
+
+Get to know the interview process from your recruiter. Ask them things like how many rounds are there, how long is each round, how many questions are usually asked in a round, etc. This would give you a hint about how much time you have to solve a problem and code it up.
 Let’s say a company normally asks 2 simple DS questions in an hour long interview, that leaves you with almost 25 minutes per problem, with some buffer.
-# Difficulty: Now try to look at some problems that this company has asked recently and try to gauge the difficulty level. Don’t look at articles that are more than 3 months old. Companies change their process and hiring bars often and normally they don’t repeat the questions very frequently.
+
+# Difficulty:
+
+Now try to look at some problems that this company has asked recently and try to gauge the difficulty level. Don’t look at articles that are more than 3 months old. Companies change their process and hiring bars often and normally they don’t repeat the questions very frequently.
 Know most of the important Data Structures
 You should be comfortable with at least Arrays, Stacks, Queues, Heaps, Maps, Trees (Binary at least), and Graphs. Don’t spend too much time on complex Data structures as most companies do not expect you to know everything but they expect you to know the basics well.
 - If you are books person, unlike me, one of the best books out there is Introduction to Algorithms — By Thomas Cormen.
@@ -48,12 +54,13 @@ If you are not achieving both of these for most of the problems, you’ll need a
 If you are applying for a Senior Engineer/ Lead/ Architect/ or a more senior role, this is without doubt the most important interview in your whole process. If this round goes wrong, nothing else would matter. Make sure you are well prepared for this.
 
 # What is the expectation:
+
 You should be able to design a system that satisfies the requirements given to you and scales well.
 Your design should not restrict the addition of new features.
 You should be able to compare various alternatives and choose the most optimal one. For example, SQL vs NoSQL, or using TCP vs UDP.
 You should know about various topics that are relevant from a system design standpoint. Some of them are covered in this article.
 
-## How to prepare:
+# How to prepare:
 
 There are various sources that you can use for system design interview preparation. I used the below two sources to prepare for my system design interviews.
 Practise at work:
@@ -72,7 +79,9 @@ To speed up the process, I am sharing the resources that I used, and you could u
 # System Design Interview Checklist:
 
 These are the things you must cover as part of your system design. You can have a look at my checklist here.
+
 # Some Examples:
+
 Based on my learning and experience, I have created a few videos on how I would design some of the biggest systems out there. These will give you a good idea about how you can drive the interview.
 
 # How to test if your preparation is good enough:
@@ -97,7 +106,8 @@ Code reusability should be taken care of. Many people copy code from one place t
 If it’s a DS/ Algo based coding round, you can prepare for it while you prepare for your DS/ Algo round. If you are hitting the targets for your DS/ Algo round (20/35 minutes), you are well prepared for it. Usual pitfalls are that people miss out on the edge cases, so make sure you handle those.
 If it’s a functional coding interview, then the best way to prepare is to practise some sample problems and get the code reviewed by your peers. You should also try running some static code analysers on your code to check your code quality. Alternatively, you could do an LLD mock interview which should give you a good insight into your code quality.
 
-Appearing for coding interviews have contributed to a major part of my learning as a software engineer. Preparing for these interviews have always been an incredible learning experience. To ace the coding interviews you need to be good at :
+Appearing for coding interviews have contributed to a major learning as a software engineer. Preparing for these interviews have always been an incredible learning experience. To ace the coding interviews you need to be good at :
+
 Data Structures and Algorithms
 Computer Science fundamentals
 Design Patterns
@@ -107,11 +117,21 @@ And have a good development experience
 Here is the compilation of resources that I used ace the coding interviews:
 Data Structures and Algorithms
 Data Structures and Algorithms is the top skill required to crack the best product companies. More the weightage to Data Structure and Algorithm, better the pay and quality of work as a developer. Having worked in the industry for quite sometime, I also understand why. This is one subject whose level of difficulty does not vary much with the number of years of experience. So work hard on strengthening your DSA and problem solving skills.
-Topics to cover :
+
+# Topics to cover :
+
 Complexity analysis: what is Big O and why is Big O important? what are Big O’s of some common searching and sorting algorithms and how to calculate Big O for different algorithms.
-Data Structures : Arrays, Linked List, Stack, Queue, Binary Tree, Binary Search Tree, Heaps, Hashing, Graphs, Advanced Data Structures (Trie, Segment Trees, Self-Balancing Trees)…
-Algorithms : Searching, Sorting, Divide and Conquer, Recursion, Backtracking, Greedy, Dynamic Programming, Union Find, Graph Algorithms, KMP algorithm…
+
+# Data Structures : 
+
+Arrays, Linked List, Stack, Queue, Binary Tree, Binary Search Tree, Heaps, Hashing, Graphs, Advanced Data Structures (Trie, Segment Trees, Self-Balancing Trees)…
+
+# Algorithms : 
+
+Searching, Sorting, Divide and Conquer, Recursion, Backtracking, Greedy, Dynamic Programming, Union Find, Graph Algorithms, KMP algorithm…
+
 Resources for learning and practice :
+
 1. GeeksforGeeks is an excellent platform. It gives you an overall idea about what topics and kind of questions are asked in coding interviews.
 2. Data Structures and Algorithms Made Easy in Java by Karumanchi Narasimha is very good for strengthening your basics.
 3. Cracking the Coding Interview by Gayle Laakmann McDowell : MUST READ. I would recommend you start reading the book from the solutions section, and read the first half as a leisure activity and to keep yourself motivated.

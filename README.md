@@ -96,3 +96,46 @@ Code reusability should be taken care of. Many people copy code from one place t
 
 If it’s a DS/ Algo based coding round, you can prepare for it while you prepare for your DS/ Algo round. If you are hitting the targets for your DS/ Algo round (20/35 minutes), you are well prepared for it. Usual pitfalls are that people miss out on the edge cases, so make sure you handle those.
 If it’s a functional coding interview, then the best way to prepare is to practise some sample problems and get the code reviewed by your peers. You should also try running some static code analysers on your code to check your code quality. Alternatively, you could do an LLD mock interview which should give you a good insight into your code quality.
+
+Appearing for coding interviews have contributed to a major part of my learning as a software engineer. Preparing for these interviews have always been an incredible learning experience. To ace the coding interviews you need to be good at :
+Data Structures and Algorithms
+Computer Science fundamentals
+Design Patterns
+System Design
+Strong hold over at least one programming language
+And have a good development experience
+Here is the compilation of resources that I used ace the coding interviews:
+Data Structures and Algorithms
+Data Structures and Algorithms is the top skill required to crack the best product companies. More the weightage to Data Structure and Algorithm, better the pay and quality of work as a developer. Having worked in the industry for quite sometime, I also understand why. This is one subject whose level of difficulty does not vary much with the number of years of experience. So work hard on strengthening your DSA and problem solving skills.
+Topics to cover :
+Complexity analysis: what is Big O and why is Big O important? what are Big O’s of some common searching and sorting algorithms and how to calculate Big O for different algorithms.
+Data Structures : Arrays, Linked List, Stack, Queue, Binary Tree, Binary Search Tree, Heaps, Hashing, Graphs, Advanced Data Structures (Trie, Segment Trees, Self-Balancing Trees)…
+Algorithms : Searching, Sorting, Divide and Conquer, Recursion, Backtracking, Greedy, Dynamic Programming, Union Find, Graph Algorithms, KMP algorithm…
+Resources for learning and practice :
+1. GeeksforGeeks is an excellent platform. It gives you an overall idea about what topics and kind of questions are asked in coding interviews.
+2. Data Structures and Algorithms Made Easy in Java by Karumanchi Narasimha is very good for strengthening your basics.
+3. Cracking the Coding Interview by Gayle Laakmann McDowell : MUST READ. I would recommend you start reading the book from the solutions section, and read the first half as a leisure activity and to keep yourself motivated.
+4. Coursera courses : Algorithms 1, Algorithms 2
+5. Channel by 0612 TV w/ NERDfirst : Sorting Algorithms ++, Sorting Algorithms Redux, Graph Theory
+6. Coding Interview Experiences : Rachit Jain , Priyank Goyal, Interview Prep by Gaurav Sen, Clément Mihailescu , Chris Jareza .. and these channels will lead you to many more :)
+7. The legend: AdityaVermaTheProgrammingLord [I came across this channel only recently and was mind-blown. You will feel like a know-it-all after watching his videos. He is also known as the guy who made DP easy.]
+8. Leetcode : for practicing your concepts, and recreating the interview environment and questions.
+9. Pramp.com : for giving mock interviews
+Design Patterns
+This is generally asked to candidates who are around 2 years into the career or more. I came across this topic in interviews back in 2015, but not this year. But I do think it is an important topic to study. The below playlist is all you will need. Just make sure you practice enough.
+Design Patterns Video Tutorial by Derek Banas
+System Design
+This is asked to candidates who are around 3–4 years into the career or more. Since it is more of a open discussion, the depth of the answer expected increases with the number years of experience. This is also my favorite topic :)
+System Design By Gaurav Sen
+TechDummiesNarendraL by Narendra
+System Design Interview Questions by Tushar Roy
+System Design Primer Course by Yogita Sharma
+Strong hold over at least one programming language
+It is very important that you have deep knowledge of at least one programming language. Some companies have a dedicated round for this. Although in most of the product companies it can be asked in any round, as is something just expected out of you as a programmer.
+The following resources helped me in Java :
+Javarevisted Blog for CoreJava
+Java Multithreading by Cave of Programming
+Java Memory Management and JVM architecture [I used a combination of resources for this, so just google it]
+A good development experience
+This is something I have struggled with, the most. I started cracking DSA interviews 1.5 years into my career, but always got stuck in the bar raiser or hiring manager round due to lack of good development experience even after working in corporate. Experience in RESTful services is a must to be qualified as a good development experience. So at least build one fully functional RESTful webservice on your own if you are very early in your career, and if your experience is more than 2 years, you also have to have a deep end to end knowledge of the application you are working on in your company. If required switch jobs for better projects. Learn as much as you can on the job, be it technical or soft skills. Don’t let your learning stagnate. Also gather as much conceptual knowledge around it as possible. Google everything that comes to your mind and build theoretical and practical knowledge parallelly. Concepts like SOLID design principles, OOP concepts, ACID BASE databases should be on the tips. Here I would like to add just one resource Basic concepts of Web Development, HTTP and Java Servlets by Sanjay Patel that really helped me clear my concepts on RESTful webservices when I first started reading about it.
+All the above resources will only guide you and you will find many more on the way. But YOU have to do the hard work, and make sure your concepts are clear. Learn-Practice-Repeat till you are about 80% confident about your preparation. Why 80%? Because you will never be 100% prepared.. So be ready to fail. Give interviews and assess what went wrong and what went right. Work on it.
